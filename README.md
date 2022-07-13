@@ -6,4 +6,5 @@ Git–For version control for tracking changes in the code filesJenkins–For co
 Docker–For deploying containerized applications
 Ansible-Configuration management tools
 
+
 This project will be about how to do deploy code to dev/stage/prod etc, just on a click of button. Link for the sample PHP application: https://github.com/edureka-devops/projCert.gitBusiness challenge/requirementAs soon as the developer pushes the updated code on the GIT master branch, a new test server should be provisioned with all the required software. Post this, the code should be containerized and deployed on the test server. The deployment should then be builtand pushed to the prod server.All this should happen automatically and should be triggered from a push to the GitHub master branch.  
